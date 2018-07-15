@@ -3,6 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "0.0.0.0" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
+theme: jekyll-theme-cayman
 #disable theme# theme_settings:#disable theme# disable theme#
 #   # Meta
 #   title: Joey Kirk
